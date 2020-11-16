@@ -1,4 +1,10 @@
 Hello world!
 12345
+<<<<<<< HEAD
 Good evening (change from master)
 67890
+=======
+Goodbye!
+67890
+Line from user1
+>>>>>>> 1feb2f40fed88105a6a42aa76c4fda0ea1ee9051
