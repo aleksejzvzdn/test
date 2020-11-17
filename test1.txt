@@ -3,3 +3,4 @@ Hello world!
 Good evening (change from master)
 67890
 new feature
+another line from user1 at rebase lesson
