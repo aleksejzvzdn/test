@@ -2,5 +2,5 @@ Hello world!
 12345
 Good evening (change from master)
 67890
-new feature123
+new feature456
 another line from user1 at rebase lesson
