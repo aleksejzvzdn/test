@@ -1,4 +1,4 @@
 Goodbye!
 Some other line.
 Line from user2 fix bug in this line
-Another line from user2
+Another line from user2 at rebase lesson
